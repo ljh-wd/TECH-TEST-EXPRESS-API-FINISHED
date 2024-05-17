@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ford Focus remote key",
+        "priceInPounds": 10.00,
+        "status": "active",
+        "categories": ["Remote", "Key"]
+    },
+    {
+        "name": "Vauxhall Insignia key blade",
+        "priceInPounds": 14.97,
+        "status": "disabled",
+        "categories": ["Key blade"]
+    },
+    {
+        "name": "Ford Fiesta transponder chip",
+        "priceInPounds": 6.49,
+        "status": "pendingReview",
+        "categories": ["Remote", "Transponder chip"]
+    },
+    {
+        "name": "Audi A1 remote case",
+        "priceInPounds": 20.50,
+        "status": "active",
+        "categories": ["Remote", "Case"]
+    },
+    {
+        "name": "Seat Ibiza key blade",
+        "priceInPounds": 3.99,
+        "status": "active",
+        "categories": ["Key blade"]
+    },
+    {
+        "name": "Skoda Fabia remote key",
+        "priceInPounds": 18.00,
+        "status": "pendingReview",
+        "categories": ["Remote", "Key"]
+    },
+    {
+        "name": "Volvo V60 basic key",
+        "priceInPounds": 7.99,
+        "status": "disabled",
+        "categories": ["Basic", "Key"]
+    },
+    {
+        "name": "Mercedes CLA key blade",
+        "priceInPounds": 9.49,
+        "status": "active",
+        "categories": ["Key blade"]
+    },
+    {
+        "name": "Volkswagen Polo transponder chip",
+        "priceInPounds": 12.50,
+        "status": "active",
+        "categories": ["Remote", "Transponder chip"]
+    },
+    {
+        "name": "BMW M2 remote case",
+        "priceInPounds": 14.00,
+        "status": "pendingReview",
+        "categories": ["Remote", "Case"]
+    }
+]
